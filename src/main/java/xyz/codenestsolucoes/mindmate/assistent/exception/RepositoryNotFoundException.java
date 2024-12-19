@@ -1,4 +1,4 @@
-package xyz.codenestsolucoes.mindmate.exception;
+package xyz.codenestsolucoes.mindmate.assistent.exception;
 
 import java.io.IOException;
 
